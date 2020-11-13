@@ -27,7 +27,7 @@
     "webpack": "^4.39.2"
   },
   "dependencies": {
-    "react": "^16.9.0",
+    "react": "^16.14.0",
     "scriptjs": "^2.5.9",
     "styled-components": "^4.3.2"
   },
